@@ -1,6 +1,5 @@
 # AF-PYTHON
 
-
 **Introducción a Python**
 
 - **¿Qué es Python?**: [Real Python - ¿Qué es Python?](https://realpython.com/what-is-python/)
