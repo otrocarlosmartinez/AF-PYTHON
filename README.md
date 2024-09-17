@@ -1,8 +1,5 @@
 # AF-PYTHON
 
-Claro, aquí tienes una traducción al español de las secciones y los enlaces sobre la introducción a Python:
-
----
 
 **Introducción a Python**
 
@@ -61,7 +58,3 @@ Claro, aquí tienes una traducción al español de las secciones y los enlaces s
 - **Instalación de Pandas**: [Real Python - Instalación de Pandas](https://realpython.com/pandas-read-write-files/)
 - **Lectura y escritura de datos**: [Studytonight - Operaciones básicas con DataFrame en Pandas](https://www.studytonight.com/pandas/basic-operations-on-pandas-dataframe)
 - **Operaciones básicas con DataFrame**: [Docs Kanaries - Básico en Pandas DataFrame](https://docs.kanaries.net/topics/Pandas/pandas-dataframe-basics)
-
----
-
-Si necesitas más información o ayuda con algún tema específico, no dudes en preguntar.
