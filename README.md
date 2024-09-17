@@ -1,5 +1,10 @@
 # AF-PYTHON
 
+## NOTEBOOKS SESIONES
+
+- **SESIÓN 17/09**: https://colab.research.google.com/drive/1nHwkjRYn0qrsoDvhjxh6yS9lsOYx9Sni?usp=sharing
+
+## CONTENIDOS
 **Introducción a Python**
 
 - **¿Qué es Python?**: [Real Python - ¿Qué es Python?](https://realpython.com/what-is-python/)
