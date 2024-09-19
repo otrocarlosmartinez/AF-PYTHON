@@ -3,6 +3,7 @@
 ## NOTEBOOKS SESIONES
 
 - **SESIÓN 17/09**: https://colab.research.google.com/drive/1nHwkjRYn0qrsoDvhjxh6yS9lsOYx9Sni?usp=sharing
+- **SESIÓN 19/09**: https://colab.research.google.com/drive/1cnsohHg6ng6ii5QxiaL3GthJZSKYKaLd?usp=sharing
 
 ## CONTENIDOS
 **Introducción a Python**
